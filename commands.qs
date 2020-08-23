@@ -45,12 +45,7 @@ Q333663	P3602	Q590740	P768	Q750677	P102	Q9624	P1111	21266	P1352	1	S4656	"https:/
 Q333663	P3602	Q215622	P768	Q750677	P102	Q9624	P1111	31843	P1352	1	S4656	"https://en.wikipedia.org/wiki/Yeovil_(UK_Parliament_constituency)"
 Q5237166	P3602	Q918466	P768	Q750677	P102	Q9626	P1111	23202	P1352	2	S4656	"https://en.wikipedia.org/wiki/Yeovil_(UK_Parliament_constituency)"
 Q5240286	P3602	Q918503	P768	Q750677	P102	Q9669	P1111	728	P1352	5	S4656	"https://en.wikipedia.org/wiki/Yeovil_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Diane Wood"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q750677	P102	Q9669	P1111	1629	P1352	4	S4656	"https://en.wikipedia.org/wiki/Yeovil_(UK_Parliament_constituency)"
+Q75975170	P3602	Q30173038	P768	Q750677	P102	Q9669	P1111	1629	P1352	4	S4656	"https://en.wikipedia.org/wiki/Yeovil_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
 LAST	Len	"Emily McIvor"
@@ -327,12 +322,7 @@ LAST	Len	"Simon Smedley"
 LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q3586935	P768	Q750677	P102	Q10647	P1111	7646	P1352	3	S4656	"https://en.wikipedia.org/wiki/Yeovil_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Terence Ledlie"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q750677	P102	Q9630	P1111	3761	P1352	3	S4656	"https://en.wikipedia.org/wiki/Yeovil_(UK_Parliament_constituency)"
+Q75720085	P3602	Q30173038	P768	Q750677	P102	Q9630	P1111	3761	P1352	3	S4656	"https://en.wikipedia.org/wiki/Yeovil_(UK_Parliament_constituency)"
 Q75996301	P3602	Q30173038	P768	Q750677	P102	Q75333996	P1111	186	P1352	6	S4656	"https://en.wikipedia.org/wiki/Yeovil_(UK_Parliament_constituency)"
 Q76509799	P3602	Q30173038	P768	Q750677	P102	Q327591	P1111	689	P1352	5	S4656	"https://en.wikipedia.org/wiki/Yeovil_(UK_Parliament_constituency)"
 CREATE
