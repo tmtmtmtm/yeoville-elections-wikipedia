@@ -1,0 +1,104 @@
+foundid,id,name,party,partyLabel,votes,election,electionLabel,ranking
+,Q19873418,Marcus Fysh,Q9626,Conservative Party (UK),34588,Q30173038,General election 2019,1
+Q75838893,,Mick Clark,Q9624,Liberal Democrats (UK),18407,Q30173038,General election 2019,2
+,,Terence Ledlie,Q9630,Labour Party (UK),3761,Q30173038,General election 2019,3
+,,Diane Wood,Q9669,Green Party of England and Wales,1629,Q30173038,General election 2019,4
+Q76509799,,Tony Capozzoli,Q327591,Independent (politician),689,Q30173038,General election 2019,5
+Q75996301,,Tom Fox,Q75333996,Constitution and Reform,186,Q30173038,General election 2019,6
+,Q19873418,Marcus Fysh,Q9626,Conservative Party (UK),32369,Q25052149,General election 2017,1
+,,Jo Roundell Greene,Q9624,Liberal Democrats (UK),17646,Q25052149,General election 2017,2
+,,Ian Martin,Q9630,Labour Party (UK),7418,Q25052149,General election 2017,3
+,,Robert Wood,Q9669,Green Party of England and Wales,1052,Q25052149,General election 2017,4
+,,Katy Pritchard,Q327591,Independent (politician),919,Q25052149,General election 2017,5
+,Q19873418,Marcus Fysh,Q9626,Conservative Party (UK),24158,Q3586935,General election 2015,1
+,Q333663,David Laws,Q9624,Liberal Democrats (UK),18865,Q3586935,General election 2015,2
+,,Simon Smedley,Q10647,UK Independence Party,7646,Q3586935,General election 2015,3
+,,Sheena King,Q9630,Labour Party (UK),4053,Q3586935,General election 2015,4
+,,Emily McIvor,Q9669,Green Party of England and Wales,2191,Q3586935,General election 2015,5
+,Q333663,David Laws,Q9624,Liberal Democrats (UK),31843,Q215622,General election 2010,1
+,,Kevin Davis,Q9626,Conservative Party (UK),18807,Q215622,General election 2010,2
+,,Lee Skevington,Q9630,Labour Party (UK),2991,Q215622,General election 2010,3
+,,Nigel Pearson,Q10647,UK Independence Party,2357,Q215622,General election 2010,4
+,,Robert Baehr,Q161269,British National Party,1162,Q215622,General election 2010,5
+,Q333663,David Laws,Q9624,Liberal Democrats (UK),25658,Q428598,General election 2005,1
+,,Ian Jenkins,Q9626,Conservative Party (UK),17096,Q428598,General election 2005,2
+,,Colin Rolfe,Q9630,Labour Party (UK),5256,Q428598,General election 2005,3
+,,Graham Livings,Q10647,UK Independence Party,1903,Q428598,General election 2005,4
+,Q333663,David Laws,Q9624,Liberal Democrats (UK),21266,Q590740,General election 2001,1
+,,Marco Forgione,Q9626,Conservative Party (UK),17338,Q590740,General election 2001,2
+,,Joe Conway,Q9630,Labour Party (UK),7077,Q590740,General election 2001,3
+,,Neil Boxall,Q10647,UK Independence Party,1131,Q590740,General election 2001,4
+,,Alex Begg,Q9669,Green Party of England and Wales,786,Q590740,General election 2001,5
+,,Anthony Prior,Q3360801,"Liberal Party (UK, 1989)",534,Q590740,General election 2001,6
+,Q333066,Paddy Ashdown,Q9624,Liberal Democrats (UK),26349,Q918503,General election 1997,1
+,,Nicholas Cambrook,Q9626,Conservative Party (UK),14946,Q918503,General election 1997,2
+,,Patrick Conway,Q9630,Labour Party (UK),8053,Q918503,General election 1997,3
+,,John Beveridge,Q278315,Referendum Party,3574,Q918503,General election 1997,4
+,Q5240286,David Taylor,Q9669,Green Party of England and Wales,728,Q918503,General election 1997,5
+,,John Archer,Q327591,Independent (politician),306,Q918503,General election 1997,6
+,,Christopher Hudson,Q6739060,Vote For Yourself Rainbow Dream Ticket,97,Q918503,General election 1997,7
+,Q333066,Paddy Ashdown,Q9624,Liberal Democrats (UK),30958,Q543609,General election 1992,1
+,,Julian Davidson,Q9626,Conservative Party (UK),22125,Q543609,General election 1992,2
+,,Vivien Elson,Q9630,Labour Party (UK),5765,Q543609,General election 1992,3
+,,Jay Risbridger,Q9669,Green Party of England and Wales,639,Q543609,General election 1992,4
+,Q1380926,Screaming Lord Sutch,Q1421227,Official Monster Raving Loony Party,338,Q543609,General election 1992,5
+,,Reginald Simmerson,Q98581349,Anti-Paddy Ashdown Keep Britain Independent,70,Q543609,General election 1992,6
+,Q333066,Paddy Ashdown,Q622441,Liberal Party (UK),28841,Q918472,General election 1987,1
+,,George Sandeman,Q9626,Conservative Party (UK),23141,Q918472,General election 1987,2
+,,John Fitzmaurice,Q9630,Labour Party (UK),4099,Q918472,General election 1987,3
+,Q333066,Paddy Ashdown,Q622441,Liberal Party (UK),26608,Q918466,General election 1983,1
+,Q5237166,David Martin,Q9626,Conservative Party (UK),23202,Q918466,General election 1983,2
+,,Peter Brushett,Q9630,Labour Party (UK),2928,Q918466,General election 1983,3
+,Q1701413,John Peyton,Q9626,Conservative Party (UK),31321,Q918450,General election 1979,1
+,Q333066,Paddy Ashdown,Q622441,Liberal Party (UK),19939,Q918450,General election 1979,2
+,Q5982096,Ian Luder,Q9630,Labour Party (UK),14098,Q918450,General election 1979,3
+,Q1701413,John Peyton,Q9626,Conservative Party (UK),25658,Q918508,General election October 1974,1
+,,M. T. McVicar,Q9630,Labour Party (UK),17330,Q918508,General election October 1974,2
+,,Geoffrey F. Taylor,Q622441,Liberal Party (UK),17298,Q918508,General election October 1974,3
+,,J. E. Tippett,Q327591,Independent politician,332,Q918508,General election October 1974,4
+,Q1701413,John Peyton,Q9626,Conservative Party (UK),25955,Q119524,General election February 1974,1
+,,Geoffrey F. Taylor,Q622441,Liberal Party (UK),18465,Q119524,General election February 1974,2
+,,M.T. McVicar,Q9630,Labour Party (UK),17362,Q119524,General election February 1974,3
+,,J.E. Tippett,,Democratic Conservative,720,Q119524,General election February 1974,4
+,Q1701413,John Peyton,Q9626,Conservative Party (UK),27689,Q918442,General election 1970,1
+,,John A Elswood,Q9630,Labour Party (UK),20621,Q918442,General election 1970,2
+,,David E Evans,Q622441,Liberal Party (UK),7418,Q918442,General election 1970,3
+,Q1701413,John Peyton,Q9626,Conservative Party (UK),22664,Q918430,General election 1966,1
+,,John A Elswood,Q9630,Labour Party (UK),20584,Q918430,General election 1966,2
+,,David E Evans,Q622441,Liberal Party (UK),9248,Q918430,General election 1966,3
+,Q1701413,John Peyton,Q9626,Conservative Party (UK),21919,Q220208,General election 1964,1
+,,Albert C Reed,Q9630,Labour Party (UK),17171,Q220208,General election 1964,2
+,,Geoffrey F. Taylor,Q622441,Liberal Party (UK),12426,Q220208,General election 1964,3
+,Q1701413,John Peyton,Q9626,Conservative Party (UK),23771,Q918420,General election 1959,1
+,,W. Alex Baker,Q9630,Labour Party (UK),17638,Q918420,General election 1959,2
+,,Geoffrey Fawsitt Taylor,Q622441,Liberal Party (UK),9484,Q918420,General election 1959,3
+,Q1701413,John Peyton,Q9626,Conservative Party (UK),24059,Q918412,General election 1955,1
+,,Moss Murray,Q9630,Labour Party (UK),19793,Q918412,General election 1955,2
+,,Geoffrey Fawsitt Taylor,Q622441,Liberal Party (UK),6089,Q918412,General election 1955,3
+,Q1701413,John Peyton,Q9626,Conservative Party (UK),23701,Q3722280,General election 1951,1
+,,Moss Murray,Q9630,Labour Party (UK),20780,Q3722280,General election 1951,2
+,,Marguerite L Winsor,Q622441,Liberal Party (UK),6118,Q3722280,General election 1951,3
+,Q8014028,William Kingsmill,Q9626,Conservative Party (UK),21145,Q748667,General election 1950,1
+,,Maurice Shinwell,Q9630,Labour Party (UK),19532,Q748667,General election 1950,2
+,Q16013251,Leon MacLaren,Q622441,Liberal Party (UK),8990,Q748667,General election 1950,3
+,Q8014028,William Kingsmill,Q9626,Conservative Party (UK),16815,Q918397,General election 1945,1
+,Q6742467,Malcolm MacPherson,Q9630,Labour Party (UK),16641,Q918397,General election 1945,2
+,,James Douglas Bateman,Q622441,Liberal Party (UK),11057,Q918397,General election 1945,3
+,Q5538418,George Davies,Q9626,Conservative Party (UK),17640,Q918378,General election 1935,1
+,,James Douglas Bateman,Q622441,Liberal Party (UK),12482,Q918378,General election 1935,2
+Q98579174,,Albert Edward Millett,Q9630,Labour Party (UK),7567,Q918378,General election 1935,3
+,Q5538418,George Davies,Q9626,Conservative Party (UK),20165,Q918375,General election 1931,1
+,,Percy Holt Heffer,Q622441,Liberal Party (UK),14046,Q918375,General election 1931,2
+,Q5644949,Hamilton Fyfe,Q9630,Labour Party (UK),5377,Q918375,General election 1931,3
+,Q5538418,George Davies,Q9626,Unionist Party (UK),15526,Q517639,General election 1929,1
+,,Percy Holt Heffer,Q622441,Liberal Party (UK),14679,Q517639,General election 1929,2
+,Q5480756,Francis Douglas,Q9630,Labour Party (UK),7609,Q517639,General election 1929,3
+,Q5538418,George Davies,Q9626,Unionist Party (UK),14477,Q2632991,General election 1924,1
+,Q23002798,Charles Waley Cohen,Q622441,Liberal Party (UK),9320,Q2632991,General election 1924,2
+,,James Lievsley George,Q9630,Labour Party (UK),6179,Q2632991,General election 1924,3
+,Q5538418,George Davies,Q9626,Unionist Party (UK),13205,Q17059317,1923 Yeovil by-election,1
+,Q8013900,William Kelly,Q9630,Labour Party (UK),8140,Q17059317,1923 Yeovil by-election,2
+,Q23002798,Charles Waley Cohen,Q622441,Liberal Party (UK),7024,Q17059317,1923 Yeovil by-election,3
+,Q4819126,Aubrey Herbert,Q9626,Unionist Party (UK),10522,Q3042701,General election 14 December 1918,1
+,Q8013900,William Kelly,Q9630,Labour Party (UK),7589,Q3042701,General election 14 December 1918,2
+,,J. R. Brough,Q622441,Liberal Party (UK),2743,Q3042701,General election 14 December 1918,3
