@@ -4,7 +4,7 @@ Q19873418,Marcus Fysh,Q9626,Conservative Party (UK),34588,Q30173038,General elec
 ,Terence Ledlie,Q9630,Labour Party (UK),3761,Q30173038,General election 2019,3
 ,Diane Wood,Q9669,Green Party of England and Wales,1629,Q30173038,General election 2019,4
 ,Tony Capozzoli,Q327591,Independent (politician),689,Q30173038,General election 2019,5
-,Tom Fox,,Constitution and Reform,186,Q30173038,General election 2019,6
+,Tom Fox,Q75333996,Constitution and Reform,186,Q30173038,General election 2019,6
 Q19873418,Marcus Fysh,Q9626,Conservative Party (UK),32369,Q25052149,General election 2017,1
 ,Jo Roundell Greene,Q9624,Liberal Democrats (UK),17646,Q25052149,General election 2017,2
 ,Ian Martin,Q9630,Labour Party (UK),7418,Q25052149,General election 2017,3
@@ -42,7 +42,7 @@ Q333066,Paddy Ashdown,Q9624,Liberal Democrats (UK),30958,Q543609,General electio
 ,Vivien Elson,Q9630,Labour Party (UK),5765,Q543609,General election 1992,3
 ,Jay Risbridger,Q9669,Green Party of England and Wales,639,Q543609,General election 1992,4
 Q1380926,Screaming Lord Sutch,Q1421227,Official Monster Raving Loony Party,338,Q543609,General election 1992,5
-,Reginald Simmerson,,Anti-Paddy Ashdown Keep Britain Independent,70,Q543609,General election 1992,6
+,Reginald Simmerson,Q98581349,Anti-Paddy Ashdown Keep Britain Independent,70,Q543609,General election 1992,6
 Q333066,Paddy Ashdown,Q622441,Liberal Party (UK),28841,Q918472,General election 1987,1
 ,George Sandeman,Q9626,Conservative Party (UK),23141,Q918472,General election 1987,2
 ,John Fitzmaurice,Q9630,Labour Party (UK),4099,Q918472,General election 1987,3
@@ -55,7 +55,7 @@ Q5982096,Ian Luder,Q9630,Labour Party (UK),14098,Q918450,General election 1979,3
 Q1701413,John Peyton,Q9626,Conservative Party (UK),25658,Q918508,General election October 1974,1
 ,M. T. McVicar,Q9630,Labour Party (UK),17330,Q918508,General election October 1974,2
 ,Geoffrey F. Taylor,Q622441,Liberal Party (UK),17298,Q918508,General election October 1974,3
-,J. E. Tippett,,Independent,332,Q918508,General election October 1974,4
+,J. E. Tippett,Q327591,Independent politician,332,Q918508,General election October 1974,4
 Q1701413,John Peyton,Q9626,Conservative Party (UK),25955,Q119524,General election February 1974,1
 ,Geoffrey F. Taylor,Q622441,Liberal Party (UK),18465,Q119524,General election February 1974,2
 ,M.T. McVicar,Q9630,Labour Party (UK),17362,Q119524,General election February 1974,3
